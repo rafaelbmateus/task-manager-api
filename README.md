@@ -2,6 +2,9 @@
 
 rails s -b 0.0.0.0 -p 3001
 
+# Test
+bundle exec spring rspec --format=d
+
 # Config Domain test
 
 ```
